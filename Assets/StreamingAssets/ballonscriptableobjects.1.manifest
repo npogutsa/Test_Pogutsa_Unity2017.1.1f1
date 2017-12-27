@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3423409954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51dda8bddda7129b33c820f060fde2ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5424d75199b433ceb4897e792203a579
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75b228b4467b6024887446e40a854ad5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/New Balloon Scriptable Object 2.asset
+- Assets/New Balloon Scriptable Object 1.asset
+- Assets/New Balloon Scriptable Object 4.asset
+- Assets/New Balloon Scriptable Object 3.asset
+- Assets/New Balloon Scriptable Object.asset
+Dependencies: []
