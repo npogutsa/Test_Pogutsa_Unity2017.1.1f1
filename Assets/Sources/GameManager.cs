@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     private Contexts _contexts;
     private Systems _systems;
     private Systems _gameSystem;
-    readonly WaitForSeconds waitForSeconds = new WaitForSeconds(1f);
+    readonly WaitForSeconds waitForSeconds = new WaitForSeconds(0.5f);
     readonly int timerEntityIndex = 0;
     CountdownSystem countdownSystem;
     Coroutine balloonsSpawner;
